@@ -4,5 +4,5 @@ Ukratko: Na ovom sajtu možete da pogledate sve oglase koje su korisnici okačil
 Napomena: sajt je rađen za mobilnu verziju. Ukoliko ga otvorite preko računara, možete da namestite u inspect element da ekran bude prilagodljiv telefonu.<br>
 Projekat je okačen na server kome možete da pristupite putem ovog linka: http://shopgroup.epizy.com<br>
 
-![shopgroup epizy com](https://user-images.githubusercontent.com/64304976/138133127-c8063738-ef46-467f-9059-25d2487bb1ea.png)
+![Shopgroup](https://user-images.githubusercontent.com/64304976/138133641-eb53b56c-3b47-407b-9ac5-c4f2c4ca7c0a.png)
 
