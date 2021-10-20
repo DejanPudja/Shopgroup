@@ -194,17 +194,17 @@ function validate_create_ad(){
 
         $images1 = $location . rand(). $image1;
         $images2 = $location . rand(). $image2;
-        if(isset($image3)){
+        if($image3 !== ""){
             $images3 = $location . rand() . $image3;
         }else{
             $images3 = $location . $image3; 
         }
-        if(isset($image4)){
+        if($image4 !== ""){
             $images4 = $location . rand() . $image4;
         }else{
             $images4 = $location . $image4; 
         }
-        if(isset($image5)){
+        if($image5 !== ""){
             $images5 = $location . rand() . $image5;
         }else{
             $images5 = $location . $image5; 
@@ -317,17 +317,17 @@ function isset_update_ad($id){
 
         $image1 = $location . $img1;
         $image2 = $location . $img2;
-        if(isset($img3)){
+        if($img3 !== ""){
             $image3 = $location . rand() . $img3;
         }else{
             $image3 = $location . $img3; 
         }
-        if(isset($img4)){
+        if($img4 !== ""){
             $image4 = $location . rand() . $img4;
         }else{
             $image4 = $location . $img4; 
         }
-        if(isset($img5)){
+        if($img5 !== ""){
             $image5 = $location . rand() . $img5;
         }else{
             $image5 = $location . $img5; 
